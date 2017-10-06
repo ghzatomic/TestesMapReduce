@@ -13,6 +13,7 @@ import java.util.stream.Stream;
 
 public class TesteMapReduce {
 
+
 	public static void main(String[] args) {
 		Map<Integer,String> entrada = new HashMap<Integer,String>();
 		entrada.put(0,"amarelo");
